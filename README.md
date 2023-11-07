@@ -86,7 +86,7 @@ Every epoch (`X` sidechain blocks), the set of active mixnodes is renewed. Mixno
 
 ## Implementations
 
-Mixpleb took initial inspiration from `NoTrustVerify`'s Oheka's work on routing Nostr traffic over NYM [4]. A Proof of Concept translation of the original Golang codebase [5] to Rust [6] was performed by the authors to gain familiarity with the topic.
+Mixpleb took initial inspiration from `NoTrustVerify`'s Oheka's work on routing Nostr traffic over NYM [4]. A Proof of Concept based on the original Golang codebase [5] is being implemented by the authors using Nym's Rust SDK[6] to gain familiarity with the topic.
 
 ## Conclusion
 
